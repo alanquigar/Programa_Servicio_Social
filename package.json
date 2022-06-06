@@ -1,0 +1,33 @@
+{
+  "name": "programa-servicio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "json-server": "json-server --watch db.json",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "apollo-server": "^3.6.4",
+    "axios": "^0.26.1",
+    "chart.js": "^3.7.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "graphql": "^16.3.0",
+    "json-server": "^0.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoclient": "^1.0.3",
+    "mongodb": "4.4",
+    "mongoose": "^6.2.7",
+    "mongoose-unique-validator": "3.0.0",
+    "react-chartjs-2": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "description": ""
+}

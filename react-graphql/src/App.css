@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  text-align: left;
+  height: 20vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: rgb(35, 31, 32);
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png");
+  background-repeat: no-repeat ;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.App-link {
+  color: #131616;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+.personas {
+  font-size: 15px;
+}
+
+.titulo {
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 100px;
+  width: 80vw;
+}
+
+.titulo_sup {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-family: Franklin Gothic Medium;
+  background-color: rgb(49, 39, 56);
+  opacity: 80%;
+  border-radius: 100px;
+  text-align: left;
+  width: 08vw;
+  text-align: center;
+  margin-top: 5vw;
+}
+
+table {
+  background-color: rgb(0, 0, 0);
+  opacity: 80%;
+  font-family: Century Gothic;
+  text-align: center;
+  border-color: rgb(27, 83, 187);
+  width:80vw;
+}
+.Cargando {
+  font-size: 50px;
+}
+
+.dat {
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 100px;
+  text-align: center;
+  width:13vw;
+}
+
+th {
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 15px;
+  text-align: center;
+  width:13vw;
+}
+
+button {
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 15px;
+  text-align: center;
+  width:13vw;
+}
+
+select {
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 15px;
+  text-align: center;
+  width:13vw;
+}
+
+input{
+  font-size: 20px;
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+  border-radius: 15px;
+  text-align: center;
+  width: 12.9vw;
+}
